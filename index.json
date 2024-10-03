@@ -1,5 +1,35 @@
-{
-	"root": "/",
-	"description": "this very indexer.",
-	"thumbnail_url": "/kitty.jpg"
-}
+[
+	{
+		"title": "Some title for this feed object",
+		"description": "Here you will find a link to the root ('/') directory of this website, which is my portfolio. Nevermind the image, this is just a test! And the cat is cuter than my frontpage.",
+		"images": [
+			{
+				"url": "https://media1.giphy.com/media/CnSdOKbh6mCUlHNG4z/source.gif",
+				"alt": "accessibility! Did I spell this right?"
+			}
+		],
+		"url": "/"
+	},
+
+	{
+		"title": "Woohoo! New feed submission!",
+		"description": "Another example object, this time it leads to my an old portfolio of mine. Again, forgive me for the choices of images. I cannot help but put cat images everywhere. And this is just a test anyways, who cares.",
+		"images": [
+			{
+				"url": "https://media2.giphy.com/avatars/minogames/zpTKHBSQRoKy.gif",
+				"alt": "Samba cat"
+			},
+			{
+				"url": "https://media1.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=6c09b95264a6j5m31gzgaqa00b3hb7l7kuj2u3jat4zdh6ck&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
+				"alt": "Cats working real hard on a computer"
+			}
+		],
+		"url": "/whitenoise-portfolio"
+	},
+
+	{
+		"title": "Hey look at this:",
+		"description": "Can't hold the sigma rizz. This link leads to another page, not from this website.",
+		"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	}
+]
